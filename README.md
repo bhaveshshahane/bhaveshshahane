@@ -31,6 +31,9 @@ Currently exploring **AI integration** and **high-performance web systems**.
 
 ---
 
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=bhaveshshahane&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-shahane-865724262)
